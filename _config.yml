@@ -8,12 +8,14 @@ middle_name:
 last_name: Raman
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
-description: > Welcome to the Raman lab! We study the evolutionary origins and functional
+description: > 
+Welcome to the Raman lab! We study the evolutionary origins and functional
   consequences of chromatin innovation — using genetics, genomics, and
   evolutionary biology across yeast, flies, and mammals to understand how
   epigenetic systems change over evolutionary time.
   # A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: > Contact: pravrutha.raman@umb.edu <br>
+footer_text: > 
+Contact: pravrutha.raman@umb.edu <br>
   University of Massachusetts Boston
   Department of Biology
   Integrated Science Center
