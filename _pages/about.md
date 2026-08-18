@@ -8,7 +8,7 @@ profile:
   image_circular: false
 news: true
 selected_papers: false
-social: true
+social: false
 ---
 
 <p style="text-align: center; font-size: 1.4em; font-weight: 600;">Welcome to the Raman lab!</p>
