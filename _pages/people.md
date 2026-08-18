@@ -15,8 +15,7 @@ description: Every discovery here is a team effort. Meet the people (past and pr
 
 Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryland with Dr. Antony Jose, studying transgenerational epigenetic inheritance in *C. elegans*, followed by postdoctoral training with Drs. Harmit Malik and Toshio Tsukiyama at Fred Hutchinson Cancer Center, where she studied the evolutionary innovation of histone proteins. She is the recipient of an NIH K99/R00 Pathway to Independence Award, the Paul T. Englund Emerging Scholar Award, and the Hutchinson Mentoring Award. [Full CV](/cv/)
 
-**Connect:** <a href="https://github.com/praman5-hub" title="GitHub"><i class="fa-brands fa-github fa-lg"></i></a>&nbsp;&nbsp; <a href="https://bsky.app/profile/pravrutharaman.bsky.social" title="Bluesky"><i class="fa-brands fa-bluesky fa-lg"></i></a>&nbsp;&nbsp; <a href="https://www.ncbi.nlm.nih.gov/myncbi/pravrutha.raman.2/bibliography/public/" title="PubMed"><i class="ai ai-pubmed fa-lg"></i></a>&nbsp;&nbsp; <a href="mailto:pravrutha.raman@umb.edu" title="Email"><i class="fa-solid fa-envelope fa-lg"></i></a>
-
+**Connect:** {% social_links %} · [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/pravrutha.raman.2/bibliography/public/) · [Email](mailto:pravrutha.raman@umb.edu)
 <div style="clear: both;"></div>
 
 <div style="width: 180px; height: 180px; border-radius: 50%; border: 2px dashed #999; display: flex; align-items: center; justify-content: center; float: left; margin: 0 2em 1em 0; font-size: 2.5em; color: #999;">?</div>
