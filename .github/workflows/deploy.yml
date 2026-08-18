@@ -3,8 +3,9 @@ name: Deploy site
 on:
   push:
     branches:
-      - master - main - classic-stable
-      - main
+      - master 
+      - main 
+      - classic-stable
     paths:
       - "assets/**"
       - "_sass/**"
@@ -32,8 +33,9 @@ on:
       - "!README.md"
   pull_request:
     branches:
-      - master - main - classic-stable
-      - main
+      - master 
+      - main 
+      - classic-stable
     paths:
       - "assets/**"
       - "_sass/**"
