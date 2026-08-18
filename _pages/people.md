@@ -13,7 +13,9 @@ description: Every discovery here is a team effort. Meet the people (past and pr
 
 **Pravrutha Raman, Ph.D.** — Assistant Professor, University of Massachusetts Boston
 
-Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryland with Dr. Antony Jose, studying transgenerational epigenetic inheritance in *C. elegans*, followed by postdoctoral training with Drs. Harmit Malik and Toshio Tsukiyama at Fred Hutchinson Cancer Center, where she studied the evolutionary innovation of histone proteins. She is the recipient of an NIH K99/R00 Pathway to Independence Award, the Paul T. Englund Emerging Scholar Award, and the Hutchinson Mentoring Award. [Full CV](/cv/) · [Google Scholar](#) · [ORCID](#)
+Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryland with Dr. Antony Jose, studying transgenerational epigenetic inheritance in *C. elegans*, followed by postdoctoral training with Drs. Harmit Malik and Toshio Tsukiyama at Fred Hutchinson Cancer Center, where she studied the evolutionary innovation of histone proteins. She is the recipient of an NIH K99/R00 Pathway to Independence Award, the Paul T. Englund Emerging Scholar Award, and the Hutchinson Mentoring Award. [Full CV](/cv/)
+
+**Connect:** [GitHub](https://github.com/praman5-hub) · [Bluesky](https://bsky.app/profile/pravrutharaman.bsky.social) · [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/pravrutha.raman.2/bibliography/public/) · [Email](mailto:pravrutha.raman@umb.edu)
 
 <div style="clear: both;"></div>
 
