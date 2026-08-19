@@ -11,11 +11,12 @@ social: false
   .post-header .post-title { display: none; }
 </style>
 
-<p style="text-align: center; font-size: 1.8em; font-weight: 700; display: flex; align-items: center; justify-content: center; gap: 0.4em; margin-bottom: 0.3em;">
-  <img src="/assets/img/lablogo.jpg" alt="Raman Lab logo" style="height: 1em; width: auto; vertical-align: middle;">
-  Welcome to the Raman lab!
+<p style="text-align: center; font-size: 1.8em; font-weight: 700; margin-bottom: 0.5em;">Welcome to the Raman lab!</p>
+
+<p style="text-align: center;">
+  <img src="/assets/img/HomePage.png" alt="Raman Lab" style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
 </p>
 
-<p style="text-align: center; font-size: 1.3em; font-weight: 600;">We ask how <strong>CHROM</strong>atin <strong>EVO</strong>lution leads to functional innovation.</p>
+<p style="text-align: center; font-size: 1.3em; font-weight: 600; margin-top: 1em;">We ask how <strong>CHROM</strong>atin <strong>EVO</strong>lution leads to functional innovation.</p>
 
 We combine genetics, genomics, molecular and cellular biology with evolutionary biology to reveal the evolutionary origins and functional consequences of chromatin changes! We love, welcome, and embrace all organisms (with a tiny bias for yeast and flies).
