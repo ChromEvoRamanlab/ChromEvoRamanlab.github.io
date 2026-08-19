@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses taught, and a bit about my approach to teaching.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ## Current Courses
