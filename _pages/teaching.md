@@ -1,11 +1,3 @@
-<!--
-HOW TO USE:
-Replace the full contents of _pages/teaching.md with this. The demo
-calendar/courses.liquid includes have been removed since they depend
-on data files we haven't set up — this version is self-contained
-plain content instead, matching the approach used on your other pages.
--->
-
 ---
 layout: page
 permalink: /teaching/
