@@ -1,10 +1,3 @@
-<!--
-HOW TO USE:
-Save this as _pages/research.md in your al-folio repo (create the file
-if it doesn't exist). Keep a YAML header like the one below at the top.
-Add it to your navbar by making sure nav: true and nav_order are set.
--->
-
 ---
 layout: page
 title: research
