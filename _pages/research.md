@@ -3,7 +3,7 @@ layout: page
 title: research
 permalink: /research/
 nav: true
-nav_order: 2
+nav_order: 1
 description: What we study, and why.
 ---
 
