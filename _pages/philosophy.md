@@ -9,7 +9,7 @@ layout: page
 title: resources
 permalink: /resources/
 nav: true
-nav_order: 4
+nav_order: 6
 description: Lab philosophy, expectations, and resources for current and prospective members.
 ---
 
