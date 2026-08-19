@@ -4,18 +4,18 @@ title: people
 permalink: /people/
 nav: true
 nav_order: 3
-description: Every discovery here is a team effort. Meet the people (past and present) who make it happen.
+description:
 ---
 
-## Meet the Team
+## Every discovery here is a team effort. Meet the people (past and present) who make it happen.
 
 <img src="/assets/img/pi-photo.jpeg" alt="Pravrutha Raman" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin: 0 2em 1em 0;">
 
 **Pravrutha Raman, Ph.D.** — Assistant Professor, University of Massachusetts Boston
 
-Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryland with Dr. Antony Jose, studying transgenerational epigenetic inheritance in *C. elegans*, followed by postdoctoral training with Drs. Harmit Malik and Toshio Tsukiyama at Fred Hutchinson Cancer Center, where she studied the evolutionary innovation of histone proteins. She is the recipient of an NIH K99/R00 Pathway to Independence Award, the Paul T. Englund Emerging Scholar Award, and the Hutchinson Mentoring Award. [Full CV](/cv/)
+Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryland with Dr. Antony Jose, studying transgenerational epigenetic inheritance in *C. elegans*, followed by postdoctoral training with Drs. Harmit Malik and Toshio Tsukiyama at Fred Hutchinson Cancer Center, where she studied the evolutionary innovation of histone proteins. She is the recipient of an NIH K99/R00 Pathway to Independence Award and the Hutchinson Mentoring Award. [Full CV](/cv/)
 
-**Connect:** {% social_links %} · [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/pravrutha.raman.2/bibliography/public/) · [Email](mailto:pravrutha.raman@umb.edu)
+**Connect:** {% social_links %} · [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/pravrutha.raman.2/bibliography/public/)
 <div style="clear: both;"></div>
 
 <div style="width: 180px; height: 180px; border-radius: 50%; border: 2px dashed #999; display: flex; align-items: center; justify-content: center; float: left; margin: 0 2em 1em 0; font-size: 2.5em; color: #999;">?</div>
@@ -32,7 +32,7 @@ We're actively recruiting at **all levels** — lab manager, research technician
 
 *Joining a new lab can be daunting! Dr. Raman has worked with the following people (as a collaborator or mentor) during her graduate and postdoctoral training, prior to the founding of the Raman Lab. Dr. Raman encourages all interested members to get in touch with these alumni if you are considering joining the lab.*
 
-### Fred Hutchinson Cancer Center
+#### Fred Hutchinson Cancer Center
 
 | Name | Years | Role | Next | Contact |
 |---|---|---|---|---|
@@ -48,11 +48,10 @@ We're actively recruiting at **all levels** — lab manager, research technician
 | Lewis Caro | 2020–2022 | Co-author, PhD Student, Ailion Lab, UW | Postdoc, Elde Lab, University of Utah | lewis.caro(at)genetics.utah.edu |
 | Mary Callie Rominger | 2020–2021 | Undergraduate | Research Technician, Berger Lab, FHCC | Romingermc(at)gmail.com |
 
-### University of Maryland, College Park
+
+#### University of Maryland, College Park
 
 | Name | Years | Role | Next | Contact |
 |---|---|---|---|---|
 | Yixin Lin | 2017–2019 | Undergraduate | High School Teacher | — |
 | Farida Ettefa | 2015–2019 | Undergraduate | MD/PhD, NYU | fettefa(at)gmail.com |
-
-*Dr. Raman received the **Hutchinson Mentoring Award**, awarded on the basis of nominations and testimonials from current and former mentees — the first postdoctoral fellow to receive this honor. Several alumni are co-authors on publications; see [Publications](/publications/).*
