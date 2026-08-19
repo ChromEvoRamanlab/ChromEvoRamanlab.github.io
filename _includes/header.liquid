@@ -1,8 +1,11 @@
 <header>
+<style>
+  .navbar-nav .nav-link { font-size: 1.15em; }
+</style>
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
-     <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/" style="display: flex; align-items: center; gap: 0.4em;">
+     <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/" style="display: flex; align-items: center; gap: 0.4em;font-size: 1.6em;">
   <img src="{{ site.baseurl }}/assets/img/lablogo.png" alt="Raman Lab logo" style="height: 1.4em; width: auto;">
   {% if site.title == 'blank' %}
     <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}
