@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses taught, and a bit about my approach to teaching.
+description: "The art of teaching is the art of assisting discovery" – Mark Van Doren.
 nav: true
 nav_order: 5
 ---
