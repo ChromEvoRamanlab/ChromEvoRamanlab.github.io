@@ -11,5 +11,8 @@
 "Preprint":
   color: "#9c7a3c"
   
-"Perspective/Review":
+"Perspective":
+  color: "#4f6d8c"
+
+  "Review":
   color: "#4f6d8c"
