@@ -14,8 +14,11 @@ We are actively recruiting! If you are a curious, motivated scientist at any lev
 ### Undergraduate Level
 Working in a lab is a rewarding but time-consuming process. We require that students are able to spend at least 10 hours/week on research to maximize learning. If you have the time and are interested in our research, please email Dr. Pravrutha Raman. 
 Dr. Raman is committed to ensuring everyone is compensated for their time and will do her best to obtain funds for all in the lab. At UMB, undergraduate students have opportunities to secure their own funding. Please look through the listed funding opportunities and in your email specifyif you are already funded through these or would be interested in applying to any of these.
+
 [REU Program] (https://www.umb.edu/science-mathematics/academic-departments/biology/student-resources/research-experiences-for-undergraduates/)
+
 [McNair Program] (https://www.umb.edu/science-mathematics/academic-departments/biology/student-resources/undergraduate-research-opportunities/)
+
 [Other fellowship opportunities] (https://www.umb.edu/science-mathematics/academic-departments/biology/student-resources/)
 
 
