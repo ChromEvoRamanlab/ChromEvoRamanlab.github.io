@@ -20,7 +20,7 @@ Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryla
 **Connect:** {% social_links %} · [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/pravrutha.raman.2/bibliography/public/)
 <div style="clear: both;"></div>
 
-<div style="width: 180px; height: 180px; border-radius: 50%; border: 2px dashed #999; display: flex; align-items: center; justify-content: center; float: left; margin: 0 2em 1em 0; font-size: 2.5em; color: #999;">?</div>
+<div style="width: 180px; height: 180px; border-radius: 50%; border: 2px dashed #999; display: flex; align-items: center; justify-content: center; float: left; margin: 0 2em 1em 0; font-size: 2.5em; color: #999;"></div>
 
 
 <img src="/assets/img/you.jpg" alt="You?" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin: 0 2em 1em 0;">
