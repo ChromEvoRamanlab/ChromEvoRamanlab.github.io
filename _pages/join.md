@@ -4,12 +4,8 @@ title: join us
 permalink: /join/
 nav: true
 nav_order: 6
-description: Openings and how to apply.
+description: We are actively recruiting! If you are a curious, motivated scientist at any levels interested in chromatin innovation, reach out.
 ---
-
-## Join the Raman Lab
-
-We are actively recruiting! If you are a curious, motivated scientist at any levels interested in chromatin innovation, reach out!
 
 ### Undergraduate Level
 Working in a lab is a rewarding but time-consuming process. We require that students are able to spend at least 10 hours/week on research to maximize learning. If you have the time and are interested in our research, please email Dr. Pravrutha Raman. 
