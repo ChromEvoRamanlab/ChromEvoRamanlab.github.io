@@ -9,6 +9,8 @@ description:
 
 ## Every discovery here is a team effort. Meet the people (past and present) who make it happen.
 
+
+
 <img src="/assets/img/pi-photo.jpeg" alt="Pravrutha Raman" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin: 0 2em 1em 0;">
 
 **Pravrutha Raman, Ph.D.** — Assistant Professor, University of Massachusetts Boston
@@ -20,6 +22,8 @@ Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryla
 
 <div style="width: 180px; height: 180px; border-radius: 50%; border: 2px dashed #999; display: flex; align-items: center; justify-content: center; float: left; margin: 0 2em 1em 0; font-size: 2.5em; color: #999;">?</div>
 
+
+<img src="/assets/img/you.jpg" alt="You?" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin: 0 2em 1em 0;">
 **You?**
 
 We're actively recruiting at **all levels** — lab manager, research technicians, graduate students, and postdoctoral fellows. If you're excited about using evolutionary approaches to study chromatin and epigenetics, we'd love to hear from you. Reach out at **[pravrutha.raman@umb.edu](mailto:pravrutha.raman@umb.edu)** with a CV and a short note on your research interests.
