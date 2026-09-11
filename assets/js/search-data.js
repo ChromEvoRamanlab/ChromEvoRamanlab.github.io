@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-join-us",
           title: "join us",
-          description: "We are actively recruiting! If you are a curious, motivated scientist at any levels interested in chromatin innovation, reach out.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/join/";
