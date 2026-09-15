@@ -28,7 +28,7 @@ Candidates must have obtained an undergraduate degree in Biology (or a related d
 ### GRADUATE STUDENTS
 If you are interested in our lab for your graduate work please email Dr. Pravrutha Raman with a short cover letter detailing your research interests and experience. Please include your CV and the contact information for 3 references. 
 Graduate programs at UMB are direct admit for the fall or spring. Please email Dr. Raman **before** admission to a graduate program.
-We recruit from the [MOCB](https://www.umb.edu/academics/program-finder/biology-phd/) and [Integrated Biology](https://www.umb.edu/academics/program-finder/integrative-biosciences-phd/) program.
+We recruit from the [MOCB](https://www.umb.edu/academics/program-finder/biology-phd/), [Integrated Biology](https://www.umb.edu/academics/program-finder/integrative-biosciences-phd/) and [Computational Sciences]([https://www.umb.edu/academics/program-finder/integrative-biosciences-phd/](https://www.umb.edu/academics/program-finder/computational-sciences-phd/)) programs.
 
 ### POSTDOCS
 Please email Dr. Pravrutha Raman if you are interested in our lab for a post-doctoral position. Please include your CV, contact information for 3 references, and any relevant publications. In your cover letter, please connect your previous research experience and your interest in our lab, highlighting any relevant expertise you may have (e.g., genetics, genomics, molecular biology or evolution).
