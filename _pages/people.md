@@ -20,10 +20,10 @@ Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryla
 **Connect:** {% social_links %} · [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/pravrutha.raman.2/bibliography/public/)
 <div style="clear: both;"></div>
 
-<div style="width: 180px; height: 180px; border-radius: 50%; border: 2px dashed #999; display: flex; align-items: center; justify-content: center; float: left; margin: 0 2em 1em 0; font-size: 2.5em; color: #999;"></div>
 
 
 <img src="/assets/img/you.jpg" alt="You?" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin: 0 2em 1em 0;">
+
 **You?**
 
 We're actively recruiting at **all levels** — lab manager, research technicians, graduate students, and postdoctoral fellows. If you're excited about using evolutionary approaches to study chromatin and epigenetics, we'd love to hear from you. Reach out at **[pravrutha.raman@umb.edu](mailto:pravrutha.raman@umb.edu)** with a CV and a short note on your research interests.
