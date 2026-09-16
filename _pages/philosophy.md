@@ -1,7 +1,7 @@
 ---
 layout: page
 title: resources
-permalink: /resources/
+permalink: /philosophy/
 nav: true
 nav_order: 4
 description: Our lab and teaching philosophy, expectations, and resources.
