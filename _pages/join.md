@@ -13,6 +13,12 @@ We are actively recruiting! If you are a curious, motivated scientist at any lev
 Pravrutha Raman<br>
 Email: **pravrutha.raman@umb.edu**<br>
 Telephone: 617-287-3811<br>
+Address: The Intergrated Sciences Building right by the harbor!<br>
+
+<p style="text-align: center;">
+  <img src="/assets/img/isc_building.jpg" alt="Integrated Science Center at UMass Boston" style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
+</p>
+<p style="text-align: center; font-size: 0.9em; color: #666;">The Integrated Science Center, home to the Raman Lab.</p>
 
 ### UNDERGRADUATES
 Working in a lab is a rewarding but time-consuming process. We require that students are able to spend **at least 10 hours/week** on research to maximize learning. If you have the time and are interested in our research, please email Dr. Pravrutha Raman. 
