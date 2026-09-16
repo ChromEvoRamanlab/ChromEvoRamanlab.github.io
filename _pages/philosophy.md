@@ -56,5 +56,18 @@ Training to be established scientists can be a rewarding although intense and st
 Internal resources — protocols, templates, meeting notes, and more — are kept in our shared lab drive rather than posted publicly here. If you're a current member and need access, just ask Pravrutha.
 
 ## Teaching Philosophy
+The art of teaching is the art of assisting discovery – Mark Van Doren.
 
+While teaching each other is a core part of how we learn in the Raman lab, Pravrutha and graduate students are also involved in teaching at the graduate and undergraduate level at UMass Boston. As teachers, we strive to cultivate that same love of science and learning in our students. Below are some strategies we use in the lab and in our teaching:
+
+**Inquiry-based learning.** encouraging students to design experiments or ideas by posing questions rather than instructing. We are genuinely excited to hear all ideas!
+
+**Teamwork.** We believe everyone can learn from each other no matter their career stage. We value everyones experiences and contributions to discussions and collaborative projects, while ensuring that the load of the work is evenly shared.
+
+**The power of "I don't know."** We encourage and model being explicit about what we dont know. The unknowns motivate curiosity and can help us find new and interesting answers!
+
+
+## Current Courses
+
+**[Epigenetics (BIOL 611)](https://courses.umb.edu/course_catalog/course_info/grd_BIOL_2026%20Fall_611)** — Fall 2026 (Pravrutha)
 
