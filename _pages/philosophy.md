@@ -1,6 +1,6 @@
 ---
 layout: page
-title: resources
+title: philosophy
 permalink: /philosophy/
 nav: true
 nav_order: 4
