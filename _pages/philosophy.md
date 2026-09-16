@@ -56,7 +56,7 @@ Training to be established scientists can be a rewarding although intense and st
 Internal resources — protocols, templates, meeting notes, and more — are kept in our shared lab drive rather than posted publicly here. If you're a current member and need access, just ask Pravrutha.
 
 ## Teaching Philosophy
-The art of teaching is the art of assisting discovery – Mark Van Doren.
+"The art of teaching is the art of assisting discovery" – Mark Van Doren.
 
 While teaching each other is a core part of how we learn in the Raman lab, Pravrutha and graduate students are also involved in teaching at the graduate and undergraduate level at UMass Boston. As teachers, we strive to cultivate that same love of science and learning in our students. Below are some strategies we use in the lab and in our teaching:
 
