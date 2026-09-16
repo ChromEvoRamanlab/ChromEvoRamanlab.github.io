@@ -13,7 +13,7 @@ We are actively recruiting! If you are a curious, motivated scientist at any lev
 Pravrutha Raman<br>
 Email: **pravrutha.raman@umb.edu**<br>
 Telephone: 617-287-3811<br>
-Address: The Intergrated Sciences Building right by the harbor!<br>
+Address: The beautiful Intergrated Sciences Complex (ISC) by the harbor!<br>
 
 <p style="text-align: center;">
   <img src="/assets/img/isc_building.jpg" alt="Integrated Science Center at UMass Boston" style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
