@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-resources",
-          title: "resources",
+        },{id: "nav-philosophy",
+          title: "philosophy",
           description: "Our lab and teaching philosophy, expectations, and resources.",
           section: "Navigation",
           handler: () => {
