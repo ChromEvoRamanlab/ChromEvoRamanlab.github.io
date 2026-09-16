@@ -26,7 +26,7 @@ Outside the lab Pravrutha can be found wrangling a dog and a toddler, baking, or
 
 <img src="/assets/img/you.jpg" alt="You?" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin: 0 2em 1em 0;">
 
-**You?**
+**[You?](/join/)**
 
 We're actively recruiting at **all levels** — lab manager, research technicians, graduate students, and postdoctoral fellows. If you're excited about using evolutionary approaches to study chromatin and epigenetics, we'd love to hear from you. See [Join Us](/join/) for full details.
 
