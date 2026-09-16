@@ -15,7 +15,9 @@ description:
 
 **Pravrutha Raman, Ph.D.** — Assistant Professor, University of Massachusetts Boston
 
-Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryland with Dr. Antony Jose, studying transgenerational epigenetic inheritance in *C. elegans*, followed by postdoctoral training with Drs. Harmit Malik and Toshio Tsukiyama at Fred Hutchinson Cancer Center, where she studied the evolutionary innovation of histone proteins. She is the recipient of an NIH K99/R00 Pathway to Independence Award and the Hutchinson Mentoring Award. [Full CV](/cv/)
+Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryland with Dr. Antony Jose, studying transgenerational epigenetic inheritance in *C. elegans*. She joined the labs of Dr. Harmit Malik and Dr. Toshio Tsukiyama at Fred Hutchinson Cancer Center in Seattle for her postdoc, where she developed her love for evolutionary innovation of chroamtin proteins. Pravrutha is interested in understanding how even small evolutionary changes in the building blocks and core regulators of the genome can alter an organisms biology and maybe even be advantageous. [Full CV](/cv/)
+
+Outside the lab Pravrutha can be found wrangling a dog and a toddler, baking, or exploring the New England food scene.
 
 **Connect:** {% social_links %} · [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/pravrutha.raman.2/bibliography/public/)
 <div style="clear: both;"></div>
@@ -26,7 +28,7 @@ Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryla
 
 **You?**
 
-We're actively recruiting at **all levels** — lab manager, research technicians, graduate students, and postdoctoral fellows. If you're excited about using evolutionary approaches to study chromatin and epigenetics, we'd love to hear from you. Reach out at **[pravrutha.raman@umb.edu](mailto:pravrutha.raman@umb.edu)** with a CV and a short note on your research interests.
+We're actively recruiting at **all levels** — lab manager, research technicians, graduate students, and postdoctoral fellows. If you're excited about using evolutionary approaches to study chromatin and epigenetics, we'd love to hear from you. See [Join Us](/join/) for full details.
 
 <div style="clear: both;"></div>
 
