@@ -23,4 +23,4 @@ social: false
 </p>
 
 
-<p style="text-align: center;">We combine genetics, genomics, molecular and cellular biology with evolutionary biology to reveal the evolutionary origins and functional consequences of chromatin changes!<br>We love, welcome, and embrace all organisms (with a tiny bias for yeast and flies).</p>
+<p style="text-align: center;">We combine genetics, genomics, molecular and cellular biology with evolutionary biology to reveal the evolutionary origins and functional consequences of chromatin changes!<br>We love, welcome, and embrace all organisms (with a tiny bias for yeast, nematodes and flies).</p>
