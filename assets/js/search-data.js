@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-resources",
+          title: "resources",
+          description: "Our lab and teaching philosophy, expectations, and resources.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resources/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "The art of teaching is the art of assisting discovery – Mark Van Doren.",
