@@ -35,7 +35,7 @@ ninja.data = [{
           description: "Our lab and teaching philosophy, expectations, and resources.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resources/";
+            window.location.href = "/philosophy/";
           },
         },{id: "nav-teaching",
           title: "teaching",
