@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/philosophy/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "The art of teaching is the art of assisting discovery – Mark Van Doren.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-join-us",
           title: "join us",
           description: "",
