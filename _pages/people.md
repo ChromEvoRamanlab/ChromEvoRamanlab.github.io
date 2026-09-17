@@ -13,7 +13,7 @@ description:
 
 <img src="/assets/img/pi-photo.jpeg" alt="Pravrutha Raman" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin: 0 2em 1em 0;">
 
-**Pravrutha Raman, Ph.D.** — Assistant Professor, University of Massachusetts Boston
+### Pravrutha Raman, Ph.D. — Assistant Professor, University of Massachusetts Boston
 
 Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryland with Dr. Antony Jose, studying transgenerational epigenetic inheritance in *C. elegans*. She joined the labs of Dr. Harmit Malik and Dr. Toshio Tsukiyama at Fred Hutchinson Cancer Center in Seattle for her postdoc, where she developed her love for evolutionary innovation of chroamtin proteins. Pravrutha is interested in understanding how even small evolutionary changes in the building blocks and core regulators of the genome can alter an organisms biology and maybe even be advantageous. [Full CV](/cv/)
 
@@ -26,7 +26,7 @@ Outside the lab Pravrutha can be found wrangling a dog and a toddler, baking, or
 
 <img src="/assets/img/you.jpg" alt="You?" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin: 0 2em 1em 0;">
 
-**[You?](/join/)**
+### [You?](/join/)
 
 We're actively recruiting at **all levels** — lab manager, research technicians, graduate students, and postdoctoral fellows. If you're excited about using evolutionary approaches to study chromatin and epigenetics, we'd love to hear from you. See [Join Us](/join/) for full details.
 
