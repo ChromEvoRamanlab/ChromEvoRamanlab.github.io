@@ -8,7 +8,7 @@ description:
 ---
 
 We study what drives the innovation of essential epigenetic factors. <br>
-Our research program focuses on revealing **when and how epigenetic factors change across evolution and what the influence of these changes are on fundamental biological processes** We combine evolutionary and phylogenetic analyses with molecular and cell biology, genetics, and genomics in multiple model organisms to uncover the causes and consequences of chromatin innovation and the surprising plasticity it displays across both evolution and disease. <br>
+Our research program focuses on revealing **when and how epigenetic factors change across evolution and what the influence of these changes are on fundamental biological processes**. We combine evolutionary and phylogenetic analyses with molecular and cell biology, genetics, and genomics in multiple model organisms to uncover the causes and consequences of chromatin innovation and the surprising plasticity it displays across both evolution and disease. <br>
 
 ## Discovering chromatin innovations
 
