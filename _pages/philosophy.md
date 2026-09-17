@@ -23,7 +23,7 @@ We believe that pushing the boundaries of knowledge requires rigor, curiosity an
 - Mentorship is not one-size-fits-all and in this lab, mentorship will be tailored to your career goals.
 - Timely, constructive feedback on manuscripts, proposals, and presentations.
 - Advocacy for your success, inside and outside the lab.
-- An open-mind policy — talk to me about problems (related to work, lab or otherwise) early, not after they've grown.
+- An open-mind policy — talk to me about problems (work, lab, or otherwise) early, not after they've grown.
 
 ### Meetings
 
