@@ -739,7 +739,11 @@ footer.sticky-bottom {
     padding-top: 1rem;
     margin-top: 2rem;
     text-align: right;
-  }
+}
+
+.publications h2.bibliography:first-of-type {
+    display: none;
+}
 
   ol.bibliography {
     list-style: none;
