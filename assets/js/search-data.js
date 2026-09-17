@@ -71,8 +71,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-raman-lab-has-officially-opened",
-          title: 'The Raman Lab has officially opened!',
+            },},{id: "news-the-raman-lab-is-open",
+          title: 'The Raman Lab is open!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/lab_opening/";
