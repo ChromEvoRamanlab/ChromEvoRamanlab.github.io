@@ -310,7 +310,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: career stage, year
+  group_by: career_stage, year
   group_order: descending, descending
 
 # Display different badges withs stats for your publications
