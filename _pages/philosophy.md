@@ -48,8 +48,8 @@ Some of the funding mechanisms we apply to are below.
 
 Training to be established scientists can be a rewarding although intense and stressful time. Please don't hesitate to reach out — to Pravrutha or a trusted colleague — if you're struggling. Your wellbeing comes first.
 
-- [UMass Boston Counseling Services](https://www.umb.edu/life-on-campus/counseling-center/)
-- [UMass Boston Health & Wellness](https://www.umb.edu/life-on-campus/health-and-wellness/)
+- [UMass Boston Counseling Services](https://www.umb.edu/health-services/counseling-center/)
+- [UMass Boston Health & Wellness](https://www.umb.edu/campus-life/health-wellness/)
   
 ### For Current Lab Members
 
