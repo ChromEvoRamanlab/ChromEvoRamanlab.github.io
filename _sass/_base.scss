@@ -733,18 +733,21 @@ footer.sticky-bottom {
     }
   }
 
+ .publications {
+  ...
+
   h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-theme-color);
     padding-top: 1rem;
     margin-top: 2rem;
     text-align: right;
-}
+  }
 
-.publications h2.bibliography:first-of-type {
+  h2.bibliography:first-of-type {
     display: none;
-}
-
+  }
+   
   ol.bibliography {
     list-style: none;
     padding: 0;
