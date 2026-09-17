@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Raman Lab has officially opened!
+title: The Raman Lab is open!
 date: 2026-09-11 00:00:00-0400
 inline: false
 related_posts: false
