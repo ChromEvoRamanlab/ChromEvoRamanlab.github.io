@@ -14,7 +14,7 @@ Every discovery here is a team effort. Meet the people (past and present) who ma
 
 #### **Pravrutha Raman** — Assistant Professor, University of Massachusetts Boston
 
-Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryland with Dr. Antony Jose, studying transgenerational epigenetic inheritance in *C. elegans*. She joined the labs of Dr. Harmit Malik and Dr. Toshio Tsukiyama at Fred Hutchinson Cancer Center in Seattle for her postdoc, where she developed her love for studying the evolution of chromatin. Pravrutha is interested in understanding how even small evolutionary changes in the building blocks and core regulators of the genome can alter an organisms biology and maybe even be advantageous. [Full CV](/assets/pdf//PRaman_CV_09-2026.pdf/)
+Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryland with Dr. Antony Jose, studying transgenerational epigenetic inheritance in *C. elegans*. She joined the labs of Dr. Harmit Malik and Dr. Toshio Tsukiyama at Fred Hutchinson Cancer Center in Seattle for her postdoc, where she developed her love for studying the evolution of chromatin. Pravrutha is interested in understanding how even small evolutionary changes in the building blocks and core regulators of the genome can alter an organisms biology and maybe even be advantageous. [Full CV](/assets/pdf//PRaman_CV_09-2026.pdf)
 
 Outside the lab Pravrutha can be found wrangling a dog and a toddler, baking, or exploring the New England food scene.
 
