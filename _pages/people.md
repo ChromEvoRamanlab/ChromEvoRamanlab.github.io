@@ -6,9 +6,8 @@ nav: true
 nav_order: 2
 description:
 ---
-
 Every discovery here is a team effort. Meet the people (past and present) who make it happen. <br>
-
+<br>
 
 
 <img src="/assets/img/pi-photo.jpeg" alt="Pravrutha Raman" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin: 0 2em 1em 0;">
