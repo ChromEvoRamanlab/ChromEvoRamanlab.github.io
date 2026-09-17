@@ -34,4 +34,4 @@ In the future, we will bring our evolutionary lens and tools to study the conseq
 
 <div style="clear: both;"></div>
 
-*Interested in these questions? See our [Publications](/publications/), or get in [touch](/join us/).*
+*Interested in these questions? See our [Publications](/publications/), or get in [touch](/join/).*
