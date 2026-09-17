@@ -14,13 +14,13 @@ We believe that pushing the boundaries of knowledge requires rigor, curiosity an
 ### Expectations
 
 **Everyone in the lab**
-- Treat all lab members with respect and kindness. Science requires that we help each other while respecting everyones time and boundaries.
+- Treat all lab members with respect and kindness. Science requires that we help each other while respecting everyone's time and boundaries.
 - Be honest and rigorous in your science. Take ownership of your research and communicate openly and early.
-- Feedback helps us grow, catch mistakes, and think creatively and broadly about our work. Attend and contribute to all lab meetings, and provide feedback on each others proposals, manuscripts and talks.
+- Feedback helps us grow, catch mistakes, and think creatively and broadly about our work. Attend and contribute to all lab meetings, and provide feedback on each other's proposals, manuscripts and talks.
 - Celebrate each other's successes
 
 **Pravrutha's commitment to you**
-- Mentorship is not one-size-fits-all and in thsi lab, mentorship will be tailored to your career goals.
+- Mentorship is not one-size-fits-all and in this lab, mentorship will be tailored to your career goals.
 - Timely, constructive feedback on manuscripts, proposals, and presentations.
 - Advocacy for your success, inside and outside the lab.
 - An open-mind policy — talk to me about problems (related to work, lab or otherwise) early, not after they've grown.
@@ -38,7 +38,7 @@ We follow NIH authorship guidelines. Contributions to a project are discussed op
 
 ### Funding & Fellowships
 
-Pravrutha is the primary source of funding for the lab and is committed to obtaining funds for and supporting all lab members. However, out lab also strongle encourages trainees to write their own grants. Pravrutha will help you identify awards, develop proposals, and edit all your work. This is less an exercise in obtaining funding and more an exercise in improving your ability to develop and write scientific proposals and understand funding mechanisms.
+Pravrutha is the primary source of funding for the lab and is committed to obtaining funds for and supporting all lab members. However, our lab strongly encourages trainees to write their own grants. Pravrutha will help you identify awards, develop proposals, and edit all your work. This is less an exercise in obtaining funding and more an exercise in improving your ability to develop and write scientific proposals and understand funding mechanisms.
 Some of the funding mechanisms we apply to are below.
 - [NIH Grants & Funding](https://www.nih.gov/grants-funding)
 - [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/)
@@ -62,9 +62,9 @@ While teaching each other is a core part of how we learn in the Raman lab, Pravr
 
 **Inquiry-based learning.** encouraging students to design experiments or ideas by posing questions rather than instructing. We are genuinely excited to hear all ideas!
 
-**Teamwork.** We believe everyone can learn from each other no matter their career stage. We value everyones experiences and contributions to discussions and collaborative projects, while ensuring that the load of the work is evenly shared.
+**Teamwork.** We believe everyone can learn from each other no matter their career stage. We value everyone's experiences and contributions to discussions and collaborative projects, while ensuring that the load of the work is evenly shared.
 
-**The power of "I don't know."** We encourage and model being explicit about what we dont know. The unknowns motivate curiosity and can help us find new and interesting answers!
+**The power of "I don't know."** We encourage and model being explicit about what we don't know. The unknowns motivate curiosity and can help us find new and interesting answers!
 
 
 ## Current Courses
