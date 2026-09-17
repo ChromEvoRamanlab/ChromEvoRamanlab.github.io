@@ -42,7 +42,7 @@ Pravrutha is the primary source of funding for the lab and is committed to obtai
 Some of the funding mechanisms we apply to are below.
 - [NIH Grants & Funding](https://www.nih.gov/grants-funding)
 - [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/)
-- [HHMI Gilliam Fellows Program](https://www.hhmi.org/science-education/programs/gilliam-fellowship-science)
+- [HHMI Gilliam Fellows Program](https://www.hhmi.org/programs/gilliam-fellows)
 
 ### Mental Health & Wellbeing
 
