@@ -16,7 +16,6 @@ Telephone: 617-287-3811<br>
 Address: The beautiful Intergrated Sciences Complex (ISC) by the harbor!<br>
           Lab location: ISC 3200<br>
           Office location: ISC 4130<br>
-<br>
 
 <p style="text-align: center;">
   <img src="/assets/img/isc_building.jpg" alt="Integrated Science Center at UMass Boston" style="max-width: 600px; width: 100%; height: auto; border-radius: 8px;">
