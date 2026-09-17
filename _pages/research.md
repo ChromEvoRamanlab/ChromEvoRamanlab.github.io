@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 nav: true
 nav_order: 1
-description: What we study, and why.
+description:
 ---
 
 We study what drives the innovation of essential epigenetic factors. <br>
