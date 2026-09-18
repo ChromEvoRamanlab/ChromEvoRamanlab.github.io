@@ -28,7 +28,7 @@ We are extending our evolutionary lens to other chromatin-associated proteins. F
 
 <img src="/assets/img/research2.jpg" alt="..." style="width: 320px; height: auto; border-radius: 8px; float: right; margin: 0 0 1em 2em;">
 
-Discovery is only half the story! we also test what these evolutionary changes actually do. We engineer ancestor-like or different evolved states into budding yeast (S. cereviseae) and fruit fly (D. melanogaster) to assess their consequences. We assess effects from the organismal level (e.g., organismal fitness, growth, development, reproduction) to more molecular effects (e.g., DNA damage response, gene expression or changes to genome structure).
+Discovery is only half the story! We also test what these evolutionary changes actually do. We engineer ancestor-like or different evolved states into budding yeast (_S. cereviseae_) and fruit fly (_D. melanogaster_) to assess their consequences. We assess effects from the organismal level (e.g., organismal fitness, growth, development, reproduction) to more molecular effects (e.g., DNA damage response, gene expression or changes to genome structure).
 
 In the future, we will bring our evolutionary lens and tools to study the consequences of disease-associated chromatin mutations.
 
