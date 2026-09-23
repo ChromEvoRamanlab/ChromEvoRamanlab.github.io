@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 description:
 ---
-Every discovery here is a team effort. Meet the people (past and present) who make it happen. <br>
+Every discovery here is a team effort. Meet the people who make it happen. <br>
 <br>
 
 
