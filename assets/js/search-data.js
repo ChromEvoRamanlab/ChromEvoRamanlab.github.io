@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/philosophy/";
           },
         },{id: "nav-join-us",
-          title: "join us",
+          title: "Join us",
           description: "",
           section: "Navigation",
           handler: () => {
