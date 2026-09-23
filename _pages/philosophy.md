@@ -7,7 +7,7 @@ nav_order: 4
 description:
 ---
 
-## LAB PHILOSOPHY
+## Lab philosophy
 
 We believe that pushing the boundaries of knowledge requires rigor, curiosity and an open mind to accept and interpret all data. We are committed to building a lab culture that is inclusive, collaborative, and supportive — one where every member feels comfortable asking questions, making mistakes, and sharing ideas without fear of judgment. Good science happens when people feel safe to be wrong in public.
 
@@ -51,13 +51,13 @@ Training to be established scientists can be a rewarding although intense and st
 - [UMass Boston Counseling Services](https://www.umb.edu/health-services/counseling-center/)
 - [UMass Boston Health & Wellness](https://www.umb.edu/campus-life/health-wellness/)
   
-### For Current lab members
+#### For Current lab members
 
 Current lab members should all have access to internal resources like protocols, templates, meeting notes, and more which are kept in our shared lab drive. If you are a current lab member and don't have access yet, just ask Pravrutha.
 
 <div style="margin-top: 2em;"></div>
 
-## TEACHING PHILOSOPHY
+## Teaching philosophy
 <div style="text-align: center; font-style: italic; font-size: 1.3em; margin: 2em auto; max-width: 600px; color: var(--global-theme-color);">
 “The art of teaching is the art of assisting discovery.”<br>
 <span style="font-size: 0.8em; font-style: normal;">— Mark Van Doren</span>
