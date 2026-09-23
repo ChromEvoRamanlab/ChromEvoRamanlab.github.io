@@ -54,7 +54,6 @@ We're actively recruiting at **all levels** — lab manager, research technician
 | Mary Callie Rominger | 2020–2021 | Undergraduate | Research Technician, Berger Lab, FHCC | Romingermc(at)gmail.com |
 
 
-<br>
 #### University of Maryland, College Park
 
 | Name | Years | Role | Next | Contact |
