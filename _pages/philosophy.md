@@ -11,7 +11,7 @@ description:
 
 We believe that pushing the boundaries of knowledge requires rigor, curiosity and an open mind to accept and interpret all data. We are committed to building a lab culture that is inclusive, collaborative, and supportive — one where every member feels comfortable asking questions, making mistakes, and sharing ideas without fear of judgment. Good science happens when people feel safe to be wrong in public.
 
-### Expectations
+#### Lab Expectations
 
 **Everyone in the lab**
 - Treat all lab members with respect and kindness. Science requires that we help each other while respecting everyone's time and boundaries.
@@ -25,18 +25,18 @@ We believe that pushing the boundaries of knowledge requires rigor, curiosity an
 - Advocacy for your success, inside and outside the lab.
 - An open-mind policy — talk to me about problems (work, lab, or otherwise) early, not after they've grown.
 
-### Meetings
+#### Meetings
 
 - **Lab meetings** — regular, with members presenting work on a rotating basis
 - **One-on-ones** — individual check-ins to discuss progress, roadblocks, and career development
 - **Journal club** — rotating discussion of papers relevant to the lab's interests
 - **Seminars and department meetings** — These occur weekly or monthly and are an excellent opportunity to hear new science and present your own work
 
-### Authorship & Data
+#### Authorship & Data
 
 We follow NIH authorship guidelines. Contributions to a project are discussed openly and early, and everyone involved receives appropriate credit. We encourage open science. Manuscripts will be posted on open sources like bioRxiv, code used in publications will be deposited in a public repository (e.g., GitHub), and all data must be stored and backed up according to lab protocols.
 
-### Funding & Fellowships
+#### Funding & Fellowships
 
 Pravrutha is the primary source of funding for the lab and is committed to obtaining funds for and supporting all lab members. However, our lab strongly encourages trainees to write their own grants. Pravrutha will help you identify awards, develop proposals, and edit all your work. This is less an exercise in obtaining funding and more an exercise in improving your ability to develop and write scientific proposals and understand funding mechanisms.
 Some of the funding mechanisms we apply to are below.
@@ -44,7 +44,7 @@ Some of the funding mechanisms we apply to are below.
 - [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/)
 - [HHMI Gilliam Fellows Program](https://www.hhmi.org/programs/gilliam-fellows)
 
-### Mental Health & Wellbeing
+#### Mental Health & Wellbeing
 
 Training to be established scientists can be a rewarding although intense and stressful time. Please don't hesitate to reach out — to Pravrutha or a trusted colleague — if you're struggling. Your wellbeing comes first.
 
@@ -53,7 +53,7 @@ Training to be established scientists can be a rewarding although intense and st
   
 ### For Current Lab Members
 
-Internal resources like protocols, templates, meeting notes, and more are kept in our shared lab drive. If you're a current member and need access, just ask Pravrutha.
+Current lab members should all have access to internal resources like protocols, templates, meeting notes, and more which are kept in our shared lab drive. If you are a current lab member and don't have access yet, just ask Pravrutha.
 
 ## Teaching Philosophy
 "The art of teaching is the art of assisting discovery" – Mark Van Doren.
@@ -67,7 +67,7 @@ While teaching each other is a core part of how we learn in the Raman lab, Pravr
 **The power of "I don't know."** We encourage and model being explicit about what we don't know. The unknowns motivate curiosity and can help us find new and interesting answers!
 
 
-## Current Courses
+#### Current Courses
 
 **[Epigenetics (BIOL 611)](https://courses.umb.edu/course_catalog/course_info/grd_BIOL_2026%20Fall_611)** — Fall 2026 (Pravrutha)
 
