@@ -51,9 +51,10 @@ We're actively recruiting at **all levels** — lab manager, research technician
 | Sierra Simmerman | 2020–2022 | Research Technician | PhD, University of Colorado Anschutz | SIERRA.SIMMERMAN(at)cuanschutz.edu |
 | Leah Anderson | 2021 | Ph.D. Rotation Student | PhD student, Dunham Lab, UW | — |
 | Lews Caro | 2020–2022 | Co-author, PhD Student, Ailion Lab, UW | Postdoc, Elde Lab, University of Utah | lewis.caro(at)genetics.utah.edu |
-| Mary Callie Rominger | 2020–2021 | Undergraduate | Research Technician, Berger Lab, FHCC | Romingermc(at)gmail.com |<br>
-<br>
+| Mary Callie Rominger | 2020–2021 | Undergraduate | Research Technician, Berger Lab, FHCC | Romingermc(at)gmail.com |
 
+
+<br>
 #### University of Maryland, College Park
 
 | Name | Years | Role | Next | Contact |
