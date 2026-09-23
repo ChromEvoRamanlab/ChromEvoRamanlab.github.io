@@ -1,6 +1,6 @@
 ---
 layout: page
-title: people
+title: People
 permalink: /people/
 nav: true
 nav_order: 2
