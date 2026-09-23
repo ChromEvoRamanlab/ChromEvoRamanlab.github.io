@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/research/";
           },
         },{id: "nav-people",
-          title: "people",
+          title: "People",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-philosophy",
-          title: "philosophy",
+          title: "Philosophy",
           description: "",
           section: "Navigation",
           handler: () => {
