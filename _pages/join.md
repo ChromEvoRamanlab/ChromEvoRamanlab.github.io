@@ -14,7 +14,7 @@ Pravrutha Raman<br>
 Email: **pravrutha.raman@umb.edu**<br>
 Telephone: 617-287-3811<br>
 Address: The beautiful Integrated Sciences Complex (ISC) by the harbor!<br>
-          Lab location: ISC 3200<br>
+          Lab location: 100 Morrissey Blvd, ISC 3200, Boston, MA 02125<br>
           Office location: ISC 4130<br>
 
 <p style="text-align: center;">
