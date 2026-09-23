@@ -7,11 +7,11 @@ nav_order: 4
 description:
 ---
 
-## Lab Philosophy
+## LAB PHILOSOPHY
 
 We believe that pushing the boundaries of knowledge requires rigor, curiosity and an open mind to accept and interpret all data. We are committed to building a lab culture that is inclusive, collaborative, and supportive — one where every member feels comfortable asking questions, making mistakes, and sharing ideas without fear of judgment. Good science happens when people feel safe to be wrong in public.
 
-#### Lab Expectations
+#### Lab expectations
 
 **Everyone in the lab**
 - Treat all lab members with respect and kindness. Science requires that we help each other while respecting everyone's time and boundaries.
@@ -32,11 +32,11 @@ We believe that pushing the boundaries of knowledge requires rigor, curiosity an
 - **Journal club** — rotating discussion of papers relevant to the lab's interests
 - **Seminars and department meetings** — These occur weekly or monthly and are an excellent opportunity to hear new science and present your own work
 
-#### Authorship & Data
+#### Authorship & data
 
 We follow NIH authorship guidelines. Contributions to a project are discussed openly and early, and everyone involved receives appropriate credit. We encourage open science. Manuscripts will be posted on open sources like bioRxiv, code used in publications will be deposited in a public repository (e.g., GitHub), and all data must be stored and backed up according to lab protocols.
 
-#### Funding & Fellowships
+#### Funding
 
 Pravrutha is the primary source of funding for the lab and is committed to obtaining funds for and supporting all lab members. However, our lab strongly encourages trainees to write their own grants. Pravrutha will help you identify awards, develop proposals, and edit all your work. This is less an exercise in obtaining funding and more an exercise in improving your ability to develop and write scientific proposals and understand funding mechanisms.
 Some of the funding mechanisms we apply to are below.
@@ -44,19 +44,19 @@ Some of the funding mechanisms we apply to are below.
 - [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/)
 - [HHMI Gilliam Fellows Program](https://www.hhmi.org/programs/gilliam-fellows)
 
-#### Mental Health & Wellbeing
+#### Mental Health & wellbeing
 
 Training to be established scientists can be a rewarding although intense and stressful time. Please don't hesitate to reach out — to Pravrutha or a trusted colleague — if you're struggling. Your wellbeing comes first.
 
 - [UMass Boston Counseling Services](https://www.umb.edu/health-services/counseling-center/)
 - [UMass Boston Health & Wellness](https://www.umb.edu/campus-life/health-wellness/)
   
-### For Current Lab Members
+### For Current lab members
 
 Current lab members should all have access to internal resources like protocols, templates, meeting notes, and more which are kept in our shared lab drive. If you are a current lab member and don't have access yet, just ask Pravrutha.
 
-## Teaching Philosophy
-"The art of teaching is the art of assisting discovery" – Mark Van Doren.
+## TEACHING PHILOSOPHY
+                                "The art of teaching is the art of assisting discovery" – Mark Van Doren.
 
 While teaching each other is a core part of how we learn in the Raman lab, Pravrutha and graduate students are also involved in teaching at the graduate and undergraduate level at UMass Boston. As teachers, we strive to cultivate that same love of science and learning in our students. Below are some strategies we use in the lab and in our teaching:
 
