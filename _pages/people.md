@@ -9,10 +9,9 @@ description:
 Every discovery here is a team effort. Meet the people who make it happen. <br>
 <br>
 
-
 <img src="/assets/img/pi-photo.jpeg" alt="Pravrutha Raman" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin: 0 2em 1em 0;">
 
-#### **Pravrutha Raman** 
+#### Pravrutha Raman
 {: .green-heading }
 Assistant Professor, University of Massachusetts Boston
 
@@ -25,7 +24,7 @@ Outside the lab Pravrutha can be found wrangling a dog and a toddler, baking, or
 
 <img src="/assets/img/you.jpg" alt="You?" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin: 0 2em 1em 0;">
 
-#### **[You?](/join/)**
+#### [You?](/join/)
 
 We're actively recruiting at **all levels** — lab manager, research technicians, graduate students, and postdoctoral fellows. If you're excited about using evolutionary approaches to study chromatin and epigenetics, we'd love to hear from you. See [Join Us](/join/) for full details.
 
