@@ -37,7 +37,7 @@ We're actively recruiting at **all levels** — lab manager, research technician
 
 *Joining a new lab can be daunting! Dr. Raman has worked with the following people (as a collaborator or mentor) during her graduate and postdoctoral training, prior to the founding of the Raman Lab. Dr. Raman encourages all interested members to get in touch with these alumni if you are considering joining the lab.*
 
-##### Fred Hutchinson Cancer Center
+#### Fred Hutchinson Cancer Center
 
 | Name | Years | Role | Next | Contact |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ We're actively recruiting at **all levels** — lab manager, research technician
 | Mary Callie Rominger | 2020–2021 | Undergraduate | Research Technician, Berger Lab, FHCC | Romingermc(at)gmail.com |
 
 
-##### University of Maryland, College Park
+#### University of Maryland, College Park
 
 | Name | Years | Role | Next | Contact |
 |---|---|---|---|---|
