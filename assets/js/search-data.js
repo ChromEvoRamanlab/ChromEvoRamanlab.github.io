@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-philosophy",
-          title: "Philosophy",
+          title: "philosophy",
           description: "",
           section: "Navigation",
           handler: () => {
