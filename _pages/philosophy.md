@@ -53,7 +53,7 @@ Training to be established scientists can be a rewarding although intense and st
   
 ### For Current Lab Members
 
-Internal resources — protocols, templates, meeting notes, and more — are kept in our shared lab drive rather than posted publicly here. If you're a current member and need access, just ask Pravrutha.
+Internal resources like protocols, templates, meeting notes, and more are kept in our shared lab drive. If you're a current member and need access, just ask Pravrutha.
 
 ## Teaching Philosophy
 "The art of teaching is the art of assisting discovery" – Mark Van Doren.
