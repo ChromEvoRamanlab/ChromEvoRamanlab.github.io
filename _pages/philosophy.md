@@ -13,13 +13,13 @@ We believe that pushing the boundaries of knowledge requires rigor, curiosity an
 
 #### Lab expectations
 
-**Everyone in the lab**
+_Everyone in the lab_
 - Treat all lab members with respect and kindness. Science requires that we help each other while respecting everyone's time and boundaries.
 - Be honest and rigorous in your science. Take ownership of your research and communicate openly and early.
 - Feedback helps us grow, catch mistakes, and think creatively and broadly about our work. Attend and contribute to all lab meetings, and provide feedback on each other's proposals, manuscripts and talks.
 - Celebrate each other's successes
 
-**Pravrutha's commitment to you**
+_Pravrutha's commitment to you_
 - Mentorship is not one-size-fits-all and in this lab, mentorship will be tailored to your career goals.
 - Timely, constructive feedback on manuscripts, proposals, and presentations.
 - Advocacy for your success, inside and outside the lab.
@@ -27,10 +27,10 @@ We believe that pushing the boundaries of knowledge requires rigor, curiosity an
 
 #### Meetings
 
-- **Lab meetings** — regular, with members presenting work on a rotating basis
-- **One-on-ones** — individual check-ins to discuss progress, roadblocks, and career development
-- **Journal club** — rotating discussion of papers relevant to the lab's interests
-- **Seminars and department meetings** — These occur weekly or monthly and are an excellent opportunity to hear new science and present your own work
+- _Lab meetings_ — Weekly, with members presenting work on a rotating basis
+- _One-on-ones_ — individual check-ins to discuss progress, roadblocks, and career development
+- _Journal club_ — rotating discussion of papers relevant to the lab's interests
+- _Seminars and department meetings_ — These occur weekly or monthly and are an excellent opportunity to hear new science and present your own work
 
 #### Authorship & data
 
@@ -65,14 +65,14 @@ Current lab members should all have access to internal resources like protocols,
 
 While teaching each other is a core part of how we learn in the Raman lab, Pravrutha and graduate students are also involved in teaching at the graduate and undergraduate level at UMass Boston. As teachers, we strive to cultivate that same love of science and learning in our students. Below are some strategies we use in the lab and in our teaching:
 
-**Inquiry-based learning.** encouraging students to design experiments or ideas by posing questions rather than instructing. We are genuinely excited to hear all ideas!
+_Inquiry-based learning._ encouraging students to design experiments or ideas by posing questions rather than instructing. We are genuinely excited to hear all ideas!
 
-**Teamwork.** We believe everyone can learn from each other no matter their career stage. We value everyone's experiences and contributions to discussions and collaborative projects, while ensuring that the load of the work is evenly shared.
+_Teamwork._ We believe everyone can learn from each other no matter their career stage. We value everyone's experiences and contributions to discussions and collaborative projects, while ensuring that the load of the work is evenly shared.
 
-**The power of "I don't know."** We encourage and model being explicit about what we don't know. The unknowns motivate curiosity and can help us find new and interesting answers!
+_The power of "I don't know"._ We encourage and model being explicit about what we don't know. The unknowns motivate curiosity and can help us find new and interesting answers!
 
 
 #### Current Courses
 
-**[Epigenetics (BIOL 611)](https://courses.umb.edu/course_catalog/course_info/grd_BIOL_2026%20Fall_611)** — Fall 2026 (Pravrutha)
+[Epigenetics (BIOL 611)](https://courses.umb.edu/course_catalog/course_info/grd_BIOL_2026%20Fall_611) — Fall 2026 (Pravrutha)
 
