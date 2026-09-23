@@ -21,7 +21,7 @@ Outside the lab Pravrutha can be found wrangling a dog and a toddler, baking, or
 **Connect:** {% social_links %} · [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/pravrutha.raman.2/bibliography/public/)
 <div style="clear: both;"></div>
 
-
+<div style="margin-top: 3em;"></div>
 
 <img src="/assets/img/you.jpg" alt="You?" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin: 0 2em 1em 0;">
 
