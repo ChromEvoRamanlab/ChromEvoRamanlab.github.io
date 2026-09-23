@@ -55,6 +55,8 @@ Training to be established scientists can be a rewarding although intense and st
 
 Current lab members should all have access to internal resources like protocols, templates, meeting notes, and more which are kept in our shared lab drive. If you are a current lab member and don't have access yet, just ask Pravrutha.
 
+<div style="margin-top: 2em;"></div>
+
 ## TEACHING PHILOSOPHY
 <div style="text-align: center; font-style: italic; font-size: 1.3em; margin: 2em auto; max-width: 600px; color: var(--global-theme-color);">
 “The art of teaching is the art of assisting discovery.”<br>
