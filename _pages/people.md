@@ -35,7 +35,7 @@ We're actively recruiting at **all levels** — lab manager, research technician
 
 ## Past Trainees and Collaborators
 
-*Joining a new lab can be daunting! Dr. Raman has worked with the following people (as a collaborator or mentor) during her graduate and postdoctoral training, prior to the founding of the Raman Lab. Dr. Raman encourages all interested members to get in touch with these alumni if you are considering joining the lab.*
+Joining a new lab can be daunting! Dr. Raman has worked with the following people (as a collaborator or mentor) during her graduate and postdoctoral training. If you are considering joining the lab, please reach out to these alumni to hear about their experience working with Dr. Raman.
 
 #### Fred Hutchinson Cancer Center
 
