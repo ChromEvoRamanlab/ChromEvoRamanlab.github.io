@@ -12,12 +12,12 @@ Every discovery here is a team effort. Meet the people who make it happen. <br>
 
 <img src="/assets/img/pi-photo.jpeg" alt="Pravrutha Raman" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; float: left; margin: 0 2em 1em 0;">
 
-#### **Pravrutha Raman** — Assistant Professor, University of Massachusetts Boston
+#### **Pravrutha Raman** 
+{: .green-heading }
+— Assistant Professor, University of Massachusetts Boston
 
-Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryland with Dr. Antony Jose, studying transgenerational epigenetic inheritance in *C. elegans*. She joined the labs of Dr. Harmit Malik and Dr. Toshio Tsukiyama at Fred Hutchinson Cancer Center in Seattle for her postdoc, where she developed her love for studying the evolution of chromatin. Pravrutha is interested in understanding how even small evolutionary changes in the building blocks and core regulators of the genome can alter an organism's biology and maybe even be advantageous. [Full CV](/assets/pdf/PRaman_CV_09-2026.pdf)
-
+Pravrutha completed her Ph.D. in Biological Sciences at the University of Maryland with Dr. Antony Jose, studying transgenerational epigenetic inheritance in *C. elegans*. She joined the labs of Dr. Harmit Malik and Dr. Toshio Tsukiyama at Fred Hutchinson Cancer Center in Seattle for her postdoc, where she developed her love for studying the evolution of chromatin. Pravrutha is interested in understanding how even small evolutionary changes in the building blocks and core regulators of the genome can alter an organism's biology and maybe even be advantageous. [CV](/assets/pdf/PRaman_CV_09-2026.pdf)
 Outside the lab Pravrutha can be found wrangling a dog and a toddler, baking, or exploring the New England food scene.
-
 **Connect:** {% social_links %} · [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/pravrutha.raman.2/bibliography/public/)
 <div style="clear: both;"></div>
 
