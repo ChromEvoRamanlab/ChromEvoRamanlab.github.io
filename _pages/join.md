@@ -29,8 +29,8 @@ Dr. Raman is committed to ensuring everyone is compensated for their time and wi
 [McNair Program](https://www.umb.edu/science-mathematics/academic-departments/biology/student-resources/undergraduate-research-opportunities/)<br>
 [Other fellowship opportunities](https://www.umb.edu/science-mathematics/academic-departments/biology/student-resources/)
 
-### Technician
-Candidates must have obtained an undergraduate degree in Biology (or a related discipline). Typically job ads for open positions will be posted here.
+### Technician/Lab manager
+Candidates must have obtained an undergraduate degree in Biology (or a related discipline). We are currently looking for someone who can help us set up the lab and get things going. Work hours can be flexible (within reason). This can be a short-term position before grad school or if you prefer and are the right fit, we will do everything we can to make this a long-term position. Email Dr. Pravrutha Raman if this is you.
 
 ### Graduate students
 If you are interested in our lab for your graduate work email Dr. Pravrutha Raman with a short cover letter detailing your research interests and experience, **before** admission to a graduate program. Please include your CV and the contact information for 3 references. 
